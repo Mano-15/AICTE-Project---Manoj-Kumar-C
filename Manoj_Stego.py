@@ -7,7 +7,7 @@ def clear_screen():
 def print_header():
     print("="*60)
     print("{:^60}".format("Secure Data Hiding in Image Using Steganography"))
-    print("{:^60}".format("A project by Your Name"))
+    print("{:^60}".format("A project by Manoj Kumar C"))
     print("="*60)
 
 def print_menu():
